@@ -60,6 +60,7 @@ st.markdown("""
 Type 2 Diabetes Risk Assessment Tool
 </p>
 """, unsafe_allow_html=True)
+st.markdown("---")
 st.subheader("Patient Information")
 
 # get patient info
