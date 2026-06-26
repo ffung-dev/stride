@@ -95,7 +95,7 @@ The web application enables:
 
 ---
 
-# INSTALLATION
+# Installation
 
 ## 1. Clone repository
 ```
@@ -119,7 +119,7 @@ venv\Scripts\activate
 pip install -r requirements.txt  
 ```
 
-# USAGE
+# Usage
 
 ## Run Streamlit app
 ```
@@ -130,7 +130,7 @@ Then open:
 http://localhost:8501  
 ```
 
-# LIMITATIONS
+# Limitations
 
 - Dataset does not include full clinical, genetic, or lifestyle variables  
 - No external validation on real hospital data  
@@ -139,7 +139,7 @@ http://localhost:8501
 - Intended for educational and research purposes only  
 
 
-# FUTURE WORK
+# Future Work
 
 - Integration of real-world clinical datasets  
 - Probability calibration for clinical reliability  
