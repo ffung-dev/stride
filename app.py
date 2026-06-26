@@ -60,7 +60,6 @@ st.markdown("""
 Type 2 Diabetes Risk Assessment Tool
 </p>
 """, unsafe_allow_html=True)
-st.markdown("---")
 st.subheader("Patient Information")
 
 # get patient info
@@ -162,8 +161,6 @@ Developed for WUHC '26, AI/ML. <br>
 EDIFICIENT: Fiona F. and Kevin L.<br>
 <a href="https://docs.google.com/document/d/14f32zCMk3zQ0UXC47A2HAiY8emfwXXBnlXtwO9ZE1hM/edit?usp=sharing" target="_blank">View Full Research Paper</a><br>
 <a href="https://github.com/ffung-dev/t2d-risk-predictor" target="_blank">GitHub Repository</a><br>
-            
-
 This tool is intended for educational purposes only and is not a medical diagnostic device.
 </p>
 """, unsafe_allow_html=True)
